@@ -1,6 +1,6 @@
-## BMR Evaluation Harness
+# BMR Evaluation Harness
 
-The BMR Evaluation Harness is a Python-based tool designed for evaluating the performance of text generation models, specifically focusing on translation tasks. It uses three widely recognized evaluation metrics: BLEU (Bilingual Evaluation Understudy), METEOR (Metric for Evaluation of Translation with Explicit Ordering), and ROUGE (Recall-Oriented Understudy for Gisting Evaluation).
+## The BMR Evaluation Harness is a Python-based tool designed for evaluating the performance of text generation models, specifically focusing on translation tasks. It uses three widely recognized evaluation metrics: BLEU (Bilingual Evaluation Understudy), METEOR (Metric for Evaluation of Translation with Explicit Ordering), and ROUGE (Recall-Oriented Understudy for Gisting Evaluation).
 Features
 
     Batch Processing: Supports evaluating multiple inputs at once for efficiency.
