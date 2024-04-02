@@ -3,10 +3,10 @@
 ## The BMR Evaluation Harness is a Python-based tool designed for evaluating the performance of text generation models, specifically focusing on translation tasks. It uses three widely recognized evaluation metrics: BLEU (Bilingual Evaluation Understudy), METEOR (Metric for Evaluation of Translation with Explicit Ordering), and ROUGE (Recall-Oriented Understudy for Gisting Evaluation).
 Features
 
-    Batch Processing: Supports evaluating multiple inputs at once for efficiency.
-    Comprehensive Metrics: Evaluates text using BLEU, METEOR, and ROUGE metrics.
-    Model Agnostic: Can be used with any model that generates text, provided it is compatible with the Hugging Face transformers library.
-    GPU Support: Automatically utilizes GPU resources if available, ensuring faster processing times for large models.
+- Batch Processing: Supports evaluating multiple inputs at once for efficiency.
+- Comprehensive Metrics: Evaluates text using BLEU, METEOR, and ROUGE metrics.
+- Model Agnostic: Can be used with any model that generates text, provided it is compatible with the Hugging Face transformers library.
+- GPU Support: Automatically utilizes GPU resources if available, ensuring faster processing times for large models.
 
 Prerequisites
 
